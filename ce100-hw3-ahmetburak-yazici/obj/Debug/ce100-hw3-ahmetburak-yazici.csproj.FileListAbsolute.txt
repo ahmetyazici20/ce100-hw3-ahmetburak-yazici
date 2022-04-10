@@ -1,0 +1,6 @@
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\bin\Debug\ce100-hw3-ahmetburak-yazici.dll
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\bin\Debug\ce100-hw3-ahmetburak-yazici.pdb
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\obj\Debug\ce100-hw3-ahmetburak-yazici.csproj.AssemblyReference.cache
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\obj\Debug\ce100-hw3-ahmetburak-yazici.csproj.CoreCompileInputs.cache
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\obj\Debug\ce100-hw3-ahmetburak-yazici.dll
+C:\Projects\ce100\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\ce100-hw3-ahmetburak-yazici\obj\Debug\ce100-hw3-ahmetburak-yazici.pdb
